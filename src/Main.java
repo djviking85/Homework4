@@ -58,6 +58,18 @@ public class Main {
     }
     public static void task4 () {
         System.out.println("Задача 4");
+        int age = 4;
+        if ( age >= 2 && < 7) {
+            System.out.println( "Тебе следует ходить в детсад");
+        }
+        if (age >=7 && => 18) {
+            System.out.println( "Идем в школу");}
+        if (age >= 19 && => 24) {
+            System.out.println( "Идем в институт");
+        }
+        if (age >= 25) {
+            System.out.println( "Идем на работу");
+        }
 
     }
     public static void task5 () {
