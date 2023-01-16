@@ -27,6 +27,17 @@ public class Main {
 
     public static void task2 () {
         System.out.println("Задача 2");
+        int t = 7;
+        if (t <= 5) {
+            System.out.println( "На улице холодно, нужно надеть шапку");
+        }
+        if (t > 5) {
+            System.out.println( "Сегодня тепло, можно идти без шапки!");
+        }
+        if (t <= 5) {
+            System.out.println( " На улице " + t + " градусов, нужно надеть шапку! ");
+        } else {
+            System.out.println( "На улице " + t + " градусов, можно идти без шапки! ");}
 
     }
     public static void task3 () {

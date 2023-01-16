@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6931a37-9787-4940-a935-593932133dd3" name="Changes" comment="4 дз старт">
+    <list default="true" id="d6931a37-9787-4940-a935-593932133dd3" name="Changes" comment="4 дз 4.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -14,6 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -59,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673896312544</updated>
-      <workItem from="1673896314262" duration="2174000" />
+      <workItem from="1673896314262" duration="2816000" />
     </task>
     <task id="LOCAL-00001" summary="4 дз старт">
       <created>1673896835494</created>
@@ -68,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673896835494</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="4 дз 4.1">
+      <created>1673898968339</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673898968339</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4 дз старт" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 дз старт" />
+    <MESSAGE value="4 дз 4.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 дз 4.1" />
   </component>
 </project>
