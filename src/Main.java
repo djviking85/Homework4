@@ -42,6 +42,18 @@ public class Main {
     }
     public static void task3 () {
         System.out.println("Задача 3");
+        int speed = 90;
+        System.out.println( " Наша скорость - " + speed + " км в час!");
+        if (speed <= 60) {
+            System.out.println( "превышения скорости нет");
+        }
+        if (speed > 60) {
+            System.out.println( "скорость превышена!");
+        }
+        if (speed <= 60) {
+            System.out.println( "Если скорость " + speed + " , то  можно ездить спокойно ");
+        } else {
+            System.out.println( "Если скорость " + speed + " , то придется заплатить штраф!!");}
 
     }
     public static void task4 () {
