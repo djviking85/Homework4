@@ -58,18 +58,20 @@ public class Main {
     }
     public static void task4 () {
         System.out.println("Задача 4");
-        int age = 4;
-        if ( age >= 2 && < 7) {
-            System.out.println( "Тебе следует ходить в детсад");
+        int age = 5;
+        if ( age >= 2 && age <= 6) {
+            System.out.println( " Если возраст человека равен " + age+ " , то ему нужно ходить в детсад");
         }
-        if (age >=7 && => 18) {
-            System.out.println( "Идем в школу");}
-        if (age >= 19 && => 24) {
-            System.out.println( "Идем в институт");
+        else { if (age >=7 && age <= 18) {
+            System.out.println( " Если возраст человека равен " + age+ " , то ему нужно в школу");
+        }}
+        if (age >= 19 && age <= 24) {
+            System.out.println( " Если возраст человека равен " + age+ " , то ему нужно в институт");
         }
-        if (age >= 25) {
-            System.out.println( "Идем на работу");
-        }
+        else { if (age >= 25) {
+            System.out.println( " Если возраст человека равен " + age+ " , то ему нужно на работу");
+        }}
+
 
     }
     public static void task5 () {
